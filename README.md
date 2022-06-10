@@ -1,5 +1,5 @@
 # Gerador de senhas <a href="https://www.python.org/downloads/release/python-3105/"><img title="Version" src="https://img.shields.io/badge/Python-3.10.5-yellow.svg?style=flat-square"></a> <a href="https://docs.python.org/3/library/tkinter.html"><img title="Version" src="https://img.shields.io/badge/Library-Tkinter-blue.svg?style=flat-square"></a> 
-Este programa gera senhas de 4, 6, 8 e 12 digitos com a possibilidade de definir letras maiúsculas, minúsculas, números e caracteres especiais.
+Este programa gera senhas de 4, 6, 8 e 12 dígitos com a possibilidade de definir letras maiúsculas, minúsculas, números e caracteres especiais.
 
 # Imagens do programa
 ![image](https://user-images.githubusercontent.com/62616207/173152877-569807ec-cbb2-4c7b-9939-c1d07b402c7b.png)
