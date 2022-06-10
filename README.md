@@ -10,7 +10,7 @@ Este programa gera senhas de 4, 6, 8 e 12 digitos com a possibilidade de definir
 
 - No Linux
 ####
-    $ python3.10 genpw.py
+    $ sudo ./run.sh
 - No Windows
 ####
     Execute o arquivo Gerador de senha.exe
