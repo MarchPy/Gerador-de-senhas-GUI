@@ -17,4 +17,5 @@ Este programa gera senhas de 4, 6, 8 e 12 digitos com a possibilidade de definir
     
     
 # Tecnlologia
-Este programa utiliza a versão 3.10.5 do Python
+- Este programa utiliza a versão 3.10.5 do Python
+- Módulo utilizado: Tkinter
