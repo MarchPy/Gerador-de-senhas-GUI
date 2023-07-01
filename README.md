@@ -16,6 +16,6 @@ Este programa gera senhas de 4, 6, 8 e 12 dígitos com a possibilidade de defini
     Execute o arquivo Gerador de senha.exe
     
     
-# Tecnlologia
+# Tecnolologia
 - Este programa utiliza a versão 3.10.5 do Python
 - Módulo utilizado: Tkinter
